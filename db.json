@@ -1,6 +1,4 @@
-
 {
-    "players":[
-        
-    ]
-}
+    "tasks": [ {"id":"1","text":"task1"}]
+  
+  }
